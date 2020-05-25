@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [All Test Suite]">
+  <test thread-count="5" name="C:/Users/USER/IdeaProjects/AI369881(failed)">
+    <classes>
+      <class name="SeleniumAssignment1.Test.OlayAutomated">
+        <methods>
+          <include name="registerAndSignInOlaySpainFemaleUser"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- SeleniumAssignment1.Test.OlayAutomated -->
+    </classes>
+  </test> <!-- C:/Users/USER/IdeaProjects/AI369881(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
